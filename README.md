@@ -45,6 +45,7 @@ mvn clean test
 * [JUnit ](https://junit.org/junit4/) - Framework para escrita dos testes
 * [Selenium WebDriver](https://www.seleniumhq.org/projects/webdriver/) - Framework para automação de testes de software 
 * [WebDriver Manager](https://github.com/bonigarcia/webdrivermanager) - Gerenciamento automático de binários do Selenium WebDriver
+* [Travis CI](https://travis-ci.org/) - CI
 * [Eclipse](https://www.eclipse.org/) - IDE
 
 ## Autores
